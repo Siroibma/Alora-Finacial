@@ -1,0 +1,191 @@
+
+#Mission {
+	/* Mission */
+	position: absolute;
+	width: 9.4%;
+	height: 10.009%;
+	left: 56.3%;
+	top: 3%;
+	font-family: 'Oxygen Mono';
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	line-height: 26px;
+	text-align: center;
+	color: white;
+}
+
+#AFS {
+	/* Alora Financial */
+	position: absolute;
+	width: 18.5%;
+	height: 10.009%;
+	left: 10%;
+	top: 3%;
+	font-family: 'Oxygen Mono';
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	line-height: 32px;
+	color: white;
+}
+
+#FA {
+	/* For all your money-calculating needs. */
+	position: absolute;
+	width: 65.26%;
+	height: 11.48%;
+	left: 17.3%;
+	top: 51.9%;
+	font-family: 'Oxygen Mono';
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	line-height: 39px;
+	text-align: center;
+	color: white;
+	mix-blend-mode: normal;
+}
+
+#AF {
+	/* Alora Financial */
+	position: absolute;
+	width: 65.26%;
+	height: 11.4%;
+	left: 17.4%;
+	top: 39.722%;
+	font-family: 'Oxygen Mono';
+	font-style: normal;
+	font-weight: bold;
+	font-size: 96px;
+	line-height: 121px;
+	text-align: center;
+	color: white;
+	mix-blend-mode: normal;
+}
+
+#Center {
+	background-color: mediumblue;
+}
+
+#Contact {
+	position: absolute;
+	width: 9.4%;
+	height: 10.009%;
+	left: 87.44%;
+	top: 3%;
+	font-family: 'Oxygen Mono';
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	line-height: 26px;
+	text-align: center;
+	color: white;
+}
+
+#PN {
+	/* Patch Notes */
+	position: absolute;
+	width: 9.4%;
+	height: 10.009%;
+	left: 76.51%;
+	top: 3%;
+	font-family: 'Oxygen Mono';
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	line-height: 26px;
+	text-align: center;
+	color: white;
+}
+
+#Tutorial {
+	/* Tutorial */
+	position: absolute;
+	width: 9.4%;
+	height: 10.009%;
+	left: 65.67%;
+	top: 3%;
+	font-family: 'Oxygen Mono';
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	line-height: 26px;
+	text-align: center;
+	color: white;
+}
+
+#background {
+	background-image: url("background.jpg");
+	position: absolute;
+	/* Full height */
+	height: 100%;
+	width: 100%;
+	/* Center and scale the image nicely */
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin: 0;
+	padding: 0;
+}
+
+a {
+	transition: color 3s;
+	text-decoration: none;
+	color: white;
+}
+
+a:hover {
+	/*font-size: 30px;
+	color: navy;*/
+
+	opacity: 0.5;
+}
+
+
+.dropdown {
+	top: 3%;
+}
+
+#Nav {
+	background-color: black !important;
+}
+
+.row > div {
+	height: 40%;
+}
+
+
+.row > img {
+	top: 60%;
+}
+
+#calculator {
+	position: absolute;
+	left: 89%;
+	top: 50%;
+}
+
+#conversion {
+	left: 50%;
+	top: 50%;
+}
+
+#SL {
+	position: absolute;
+	color: black;
+	top: 50%;
+	left: 80%;
+}
+
+#right_side {
+	background: linear-gradient(#e66465, #9198e5);
+	opacity: .75;
+}
+
+#trio {
+	position: absolute;
+	left: 76.6%;
+	top: 48.62%;
+}
+
